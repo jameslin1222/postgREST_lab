@@ -1,0 +1,5 @@
+# HS256
+token:
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoidG9kb191c2VyIn0.ooMjmKP90iqBsipNi0NS3Qtk55e9YllOGUxAJhODsHk
+
+
